@@ -1,0 +1,1 @@
+[{"user": "maor", "pwd": "200"}, {"user": "adi", "pwd": "300"}, {"user": "roi", "pwd": "700"}]
